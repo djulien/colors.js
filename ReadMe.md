@@ -22,6 +22,15 @@
   - white
   - gray
   - grey
+Lighter variations:
+  - gray_dark
+  - red_light
+  - green_light
+  - yellow_light
+  - blue_light
+  - pink_light
+  - cyan_light
+  - gray_light
 
 ### background colors
 
